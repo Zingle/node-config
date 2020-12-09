@@ -1,6 +1,6 @@
 {
   "name": "@zingle/config",
-  "version": "1.0.0-beta",
+  "version": "1.0.0",
   "description": "read configuration from environment and CLI args",
   "main": "index.mjs",
   "scripts": {
